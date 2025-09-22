@@ -7,3 +7,4 @@ Just a collection of game maps I find online
 - https://www.newworld-map.com/
 - https://maps.gw2.io/
 - https://foxholestats.com/
+- https://www.wemod.com/fr/maps
